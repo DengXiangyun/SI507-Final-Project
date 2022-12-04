@@ -3,3 +3,5 @@ This project allows you to get a list of recommended players based on your prefe
 
 ## Data Sources
 SoFIFA: https://sofifa.com/
+Player data: https://sofifa.com/players
+Team data: https://sofifa.com/teams?type=club
