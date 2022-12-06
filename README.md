@@ -6,4 +6,6 @@ SoFIFA: https://sofifa.com/
 
 Player data: https://sofifa.com/players
 
-Team data: https://sofifa.com/teams?type=club
+Club data: https://sofifa.com/teams?type=club
+
+National team data: https://sofifa.com/teams?type=national  and  https://www.fifa.com/fifa-world-ranking/men 
