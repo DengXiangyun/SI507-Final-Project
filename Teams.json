@@ -1,0 +1,848 @@
+[
+    {
+        "Team": "FC Bayern M\u00fcnchen",
+        "Team_Image": "https://cdn.sofifa.net/teams/21/30.png",
+        "League Id": 2,
+        "Overall": 84
+    },
+    {
+        "Team": "K\u00f8benhavn",
+        "Team_Image": "https://cdn.sofifa.net/teams/819/30.png",
+        "League Id": 6,
+        "Overall": 72
+    },
+    {
+        "Team": "Manchester United",
+        "Team_Image": "https://cdn.sofifa.net/teams/11/30.png",
+        "League Id": 1,
+        "Overall": 82
+    },
+    {
+        "Team": "Napoli",
+        "Team_Image": "https://cdn.sofifa.net/teams/48/30.png",
+        "League Id": 4,
+        "Overall": 80
+    },
+    {
+        "Team": "Borussia Dortmund",
+        "Team_Image": "https://cdn.sofifa.net/teams/22/30.png",
+        "League Id": 2,
+        "Overall": 81
+    },
+    {
+        "Team": "Arsenal",
+        "Team_Image": "https://cdn.sofifa.net/teams/1/30.png",
+        "League Id": 1,
+        "Overall": 80
+    },
+    {
+        "Team": "Liverpool",
+        "Team_Image": "https://cdn.sofifa.net/teams/9/30.png",
+        "League Id": 1,
+        "Overall": 84
+    },
+    {
+        "Team": "Newcastle United",
+        "Team_Image": "https://cdn.sofifa.net/teams/13/30.png",
+        "League Id": 1,
+        "Overall": 78
+    },
+    {
+        "Team": "Eintracht Frankfurt",
+        "Team_Image": "https://cdn.sofifa.net/teams/1824/30.png",
+        "League Id": 2,
+        "Overall": 78
+    },
+    {
+        "Team": "Brighton & Hove Albion",
+        "Team_Image": "https://cdn.sofifa.net/teams/1808/30.png",
+        "League Id": 1,
+        "Overall": 76
+    },
+    {
+        "Team": "Mallorca",
+        "Team_Image": "https://cdn.sofifa.net/teams/453/30.png",
+        "League Id": 3,
+        "Overall": 74
+    },
+    {
+        "Team": "Nordsj\u00e6lland",
+        "Team_Image": "https://cdn.sofifa.net/teams/1788/30.png",
+        "League Id": 6,
+        "Overall": 66
+    },
+    {
+        "Team": "Dinamo Zagreb",
+        "Team_Image": "https://cdn.sofifa.net/teams/211/30.png",
+        "League Id": 6,
+        "Overall": 73
+    },
+    {
+        "Team": "Tottenham Hotspur",
+        "Team_Image": "https://cdn.sofifa.net/teams/18/30.png",
+        "League Id": 1,
+        "Overall": 81
+    },
+    {
+        "Team": "Real Madrid",
+        "Team_Image": "https://cdn.sofifa.net/teams/243/30.png",
+        "League Id": 3,
+        "Overall": 85
+    },
+    {
+        "Team": "Espanyol",
+        "Team_Image": "https://cdn.sofifa.net/teams/452/30.png",
+        "League Id": 3,
+        "Overall": 76
+    },
+    {
+        "Team": "RB Leipzig",
+        "Team_Image": "https://cdn.sofifa.net/teams/112172/30.png",
+        "League Id": 2,
+        "Overall": 81
+    },
+    {
+        "Team": "Free Player",
+        "Team_Image": "",
+        "League Id": 6,
+        "Overall": 76
+    },
+    {
+        "Team": "Inter",
+        "Team_Image": "https://cdn.sofifa.net/teams/44/30.png",
+        "League Id": 4,
+        "Overall": 83
+    },
+    {
+        "Team": "West Ham United",
+        "Team_Image": "https://cdn.sofifa.net/teams/19/30.png",
+        "League Id": 1,
+        "Overall": 79
+    },
+    {
+        "Team": "VfL Wolfsburg",
+        "Team_Image": "https://cdn.sofifa.net/teams/175/30.png",
+        "League Id": 2,
+        "Overall": 77
+    },
+    {
+        "Team": "Paris Saint Germain",
+        "Team_Image": "https://cdn.sofifa.net/teams/73/30.png",
+        "League Id": 5,
+        "Overall": 85
+    },
+    {
+        "Team": "Dallas",
+        "Team_Image": "https://cdn.sofifa.net/teams/695/30.png",
+        "League Id": 6,
+        "Overall": 69
+    },
+    {
+        "Team": "Milan",
+        "Team_Image": "https://cdn.sofifa.net/teams/47/30.png",
+        "League Id": 4,
+        "Overall": 81
+    },
+    {
+        "Team": "SC Freiburg",
+        "Team_Image": "https://cdn.sofifa.net/teams/25/30.png",
+        "League Id": 2,
+        "Overall": 76
+    },
+    {
+        "Team": "Manchester City",
+        "Team_Image": "https://cdn.sofifa.net/teams/10/30.png",
+        "League Id": 1,
+        "Overall": 85
+    },
+    {
+        "Team": "Athletic Club",
+        "Team_Image": "https://cdn.sofifa.net/teams/448/30.png",
+        "League Id": 3,
+        "Overall": 79
+    },
+    {
+        "Team": "Southampton",
+        "Team_Image": "https://cdn.sofifa.net/teams/17/30.png",
+        "League Id": 1,
+        "Overall": 75
+    },
+    {
+        "Team": "Leicester City",
+        "Team_Image": "https://cdn.sofifa.net/teams/95/30.png",
+        "League Id": 1,
+        "Overall": 79
+    },
+    {
+        "Team": "Hamburger SV",
+        "Team_Image": "https://cdn.sofifa.net/teams/28/30.png",
+        "League Id": 6,
+        "Overall": 71
+    },
+    {
+        "Team": "Ajax",
+        "Team_Image": "https://cdn.sofifa.net/teams/245/30.png",
+        "League Id": 6,
+        "Overall": 78
+    },
+    {
+        "Team": "Jeonbuk Motors",
+        "Team_Image": "https://cdn.sofifa.net/teams/1477/30.png",
+        "League Id": 6,
+        "Overall": 69
+    },
+    {
+        "Team": "Monza",
+        "Team_Image": "https://cdn.sofifa.net/teams/111811/30.png",
+        "League Id": 4,
+        "Overall": 75
+    },
+    {
+        "Team": "Juventus",
+        "Team_Image": "https://cdn.sofifa.net/teams/45/30.png",
+        "League Id": 4,
+        "Overall": 82
+    },
+    {
+        "Team": "Chelsea",
+        "Team_Image": "https://cdn.sofifa.net/teams/5/30.png",
+        "League Id": 1,
+        "Overall": 84
+    },
+    {
+        "Team": "Aston Villa",
+        "Team_Image": "https://cdn.sofifa.net/teams/2/30.png",
+        "League Id": 1,
+        "Overall": 79
+    },
+    {
+        "Team": "SC Heerenveen",
+        "Team_Image": "https://cdn.sofifa.net/teams/1913/30.png",
+        "League Id": 6,
+        "Overall": 68
+    },
+    {
+        "Team": "Real Sociedad",
+        "Team_Image": "https://cdn.sofifa.net/teams/457/30.png",
+        "League Id": 3,
+        "Overall": 79
+    },
+    {
+        "Team": "PSV",
+        "Team_Image": "https://cdn.sofifa.net/teams/247/30.png",
+        "League Id": 6,
+        "Overall": 77
+    },
+    {
+        "Team": "Lille",
+        "Team_Image": "https://cdn.sofifa.net/teams/65/30.png",
+        "League Id": 5,
+        "Overall": 75
+    },
+    {
+        "Team": "Reims",
+        "Team_Image": "https://cdn.sofifa.net/teams/379/30.png",
+        "League Id": 5,
+        "Overall": 72
+    },
+    {
+        "Team": "Benfica",
+        "Team_Image": "https://cdn.sofifa.net/teams/234/30.png",
+        "League Id": 6,
+        "Overall": 79
+    },
+    {
+        "Team": "Nacional",
+        "Team_Image": "https://cdn.sofifa.net/teams/111325/30.png",
+        "League Id": 6,
+        "Overall": 71
+    },
+    {
+        "Team": "Olympique Marseille",
+        "Team_Image": "https://cdn.sofifa.net/teams/219/30.png",
+        "League Id": 5,
+        "Overall": 78
+    },
+    {
+        "Team": "FC Barcelona",
+        "Team_Image": "https://cdn.sofifa.net/teams/241/30.png",
+        "League Id": 3,
+        "Overall": 84
+    },
+    {
+        "Team": "Empoli",
+        "Team_Image": "https://cdn.sofifa.net/teams/1746/30.png",
+        "League Id": 4,
+        "Overall": 73
+    },
+    {
+        "Team": "Birmingham City",
+        "Team_Image": "https://cdn.sofifa.net/teams/88/30.png",
+        "League Id": 6,
+        "Overall": 69
+    },
+    {
+        "Team": "Al Nassr",
+        "Team_Image": "https://cdn.sofifa.net/teams/112139/30.png",
+        "League Id": 6,
+        "Overall": 72
+    },
+    {
+        "Team": "Atl\u00e9tico Madrid",
+        "Team_Image": "https://cdn.sofifa.net/teams/240/30.png",
+        "League Id": 3,
+        "Overall": 83
+    },
+    {
+        "Team": "VfB Stuttgart",
+        "Team_Image": "https://cdn.sofifa.net/teams/36/30.png",
+        "League Id": 2,
+        "Overall": 74
+    },
+    {
+        "Team": "Feyenoord",
+        "Team_Image": "https://cdn.sofifa.net/teams/246/30.png",
+        "League Id": 6,
+        "Overall": 74
+    },
+    {
+        "Team": "Queens Park Rangers",
+        "Team_Image": "https://cdn.sofifa.net/teams/15/30.png",
+        "League Id": 6,
+        "Overall": 70
+    },
+    {
+        "Team": "Borussia M\u00f6nchengladbach",
+        "Team_Image": "https://cdn.sofifa.net/teams/23/30.png",
+        "League Id": 2,
+        "Overall": 78
+    },
+    {
+        "Team": "Olympique Lyonnais",
+        "Team_Image": "https://cdn.sofifa.net/teams/66/30.png",
+        "League Id": 5,
+        "Overall": 77
+    },
+    {
+        "Team": "Monaco",
+        "Team_Image": "https://cdn.sofifa.net/teams/69/30.png",
+        "League Id": 5,
+        "Overall": 77
+    },
+    {
+        "Team": "Crystal Palace",
+        "Team_Image": "https://cdn.sofifa.net/teams/1799/30.png",
+        "League Id": 1,
+        "Overall": 76
+    },
+    {
+        "Team": "Bayer 04 Leverkusen",
+        "Team_Image": "https://cdn.sofifa.net/teams/32/30.png",
+        "League Id": 2,
+        "Overall": 80
+    },
+    {
+        "Team": "Sporting CP",
+        "Team_Image": "https://cdn.sofifa.net/teams/237/30.png",
+        "League Id": 6,
+        "Overall": 78
+    },
+    {
+        "Team": "Boca Juniors",
+        "Team_Image": "https://cdn.sofifa.net/teams/1877/30.png",
+        "League Id": 6,
+        "Overall": 75
+    },
+    {
+        "Team": "Atl\u00e9tico Nacional",
+        "Team_Image": "https://cdn.sofifa.net/teams/101100/30.png",
+        "League Id": 6,
+        "Overall": 70
+    },
+    {
+        "Team": "Quer\u00e9taro",
+        "Team_Image": "https://cdn.sofifa.net/teams/110150/30.png",
+        "League Id": 6,
+        "Overall": 70
+    },
+    {
+        "Team": "Sevilla",
+        "Team_Image": "https://cdn.sofifa.net/teams/481/30.png",
+        "League Id": 3,
+        "Overall": 81
+    },
+    {
+        "Team": "Nashville SC",
+        "Team_Image": "https://cdn.sofifa.net/teams/114162/30.png",
+        "League Id": 6,
+        "Overall": 69
+    },
+    {
+        "Team": "Leeds United",
+        "Team_Image": "https://cdn.sofifa.net/teams/8/30.png",
+        "League Id": 1,
+        "Overall": 76
+    },
+    {
+        "Team": "Seoul",
+        "Team_Image": "https://cdn.sofifa.net/teams/982/30.png",
+        "League Id": 6,
+        "Overall": 67
+    },
+    {
+        "Team": "Universidad Chile",
+        "Team_Image": "https://cdn.sofifa.net/teams/15029/30.png",
+        "League Id": 6,
+        "Overall": 70
+    },
+    {
+        "Team": "Toronto",
+        "Team_Image": "https://cdn.sofifa.net/teams/111651/30.png",
+        "League Id": 6,
+        "Overall": 69
+    },
+    {
+        "Team": "Cruz Azul",
+        "Team_Image": "https://cdn.sofifa.net/teams/1878/30.png",
+        "League Id": 6,
+        "Overall": 70
+    },
+    {
+        "Team": "Salernitana",
+        "Team_Image": "https://cdn.sofifa.net/teams/110373/30.png",
+        "League Id": 4,
+        "Overall": 74
+    },
+    {
+        "Team": "Villarreal",
+        "Team_Image": "https://cdn.sofifa.net/teams/483/30.png",
+        "League Id": 3,
+        "Overall": 80
+    },
+    {
+        "Team": "Auxerre",
+        "Team_Image": "https://cdn.sofifa.net/teams/57/30.png",
+        "League Id": 5,
+        "Overall": 71
+    },
+    {
+        "Team": "Nice",
+        "Team_Image": "https://cdn.sofifa.net/teams/72/30.png",
+        "League Id": 5,
+        "Overall": 77
+    },
+    {
+        "Team": "Rayo Vallecano",
+        "Team_Image": "https://cdn.sofifa.net/teams/480/30.png",
+        "League Id": 3,
+        "Overall": 76
+    },
+    {
+        "Team": "Saint-\u00c9tienne",
+        "Team_Image": "https://cdn.sofifa.net/teams/1819/30.png",
+        "League Id": 6,
+        "Overall": 70
+    },
+    {
+        "Team": "FC Groningen",
+        "Team_Image": "https://cdn.sofifa.net/teams/1915/30.png",
+        "League Id": 6,
+        "Overall": 67
+    },
+    {
+        "Team": "Beijing Guoan",
+        "Team_Image": "https://cdn.sofifa.net/teams/111768/30.png",
+        "League Id": 6,
+        "Overall": 66
+    },
+    {
+        "Team": "Inter Miami",
+        "Team_Image": "https://cdn.sofifa.net/teams/112893/30.png",
+        "League Id": 6,
+        "Overall": 68
+    },
+    {
+        "Team": "Am\u00e9rica de Cali",
+        "Team_Image": "https://cdn.sofifa.net/teams/101099/30.png",
+        "League Id": 6,
+        "Overall": 69
+    },
+    {
+        "Team": "Wolverhampton Wanderers",
+        "Team_Image": "https://cdn.sofifa.net/teams/110/30.png",
+        "League Id": 1,
+        "Overall": 78
+    },
+    {
+        "Team": "Austria Lustenau",
+        "Team_Image": "https://cdn.sofifa.net/teams/781/30.png",
+        "League Id": 6,
+        "Overall": 64
+    },
+    {
+        "Team": "Seongnam",
+        "Team_Image": "https://cdn.sofifa.net/teams/981/30.png",
+        "League Id": 6,
+        "Overall": 65
+    },
+    {
+        "Team": "Lan\u00fas",
+        "Team_Image": "https://cdn.sofifa.net/teams/110395/30.png",
+        "League Id": 6,
+        "Overall": 71
+    },
+    {
+        "Team": "V\u00e9lez Sarsfield",
+        "Team_Image": "https://cdn.sofifa.net/teams/101088/30.png",
+        "League Id": 6,
+        "Overall": 72
+    },
+    {
+        "Team": "Ulsan",
+        "Team_Image": "https://cdn.sofifa.net/teams/1473/30.png",
+        "League Id": 6,
+        "Overall": 69
+    },
+    {
+        "Team": "Basel",
+        "Team_Image": "https://cdn.sofifa.net/teams/896/30.png",
+        "League Id": 6,
+        "Overall": 69
+    },
+    {
+        "Team": "San Lorenzo",
+        "Team_Image": "https://cdn.sofifa.net/teams/1013/30.png",
+        "League Id": 6,
+        "Overall": 69
+    },
+    {
+        "Team": "Estoril",
+        "Team_Image": "https://cdn.sofifa.net/teams/10020/30.png",
+        "League Id": 6,
+        "Overall": 69
+    },
+    {
+        "Team": "Hellas Verona",
+        "Team_Image": "https://cdn.sofifa.net/teams/206/30.png",
+        "League Id": 4,
+        "Overall": 74
+    },
+    {
+        "Team": "Borussia Dortmund II",
+        "Team_Image": "https://cdn.sofifa.net/teams/110676/30.png",
+        "League Id": 6,
+        "Overall": 63
+    },
+    {
+        "Team": "FC K\u00f6ln",
+        "Team_Image": "https://cdn.sofifa.net/teams/31/30.png",
+        "League Id": 2,
+        "Overall": 74
+    },
+    {
+        "Team": "Western Sydney Wanderers",
+        "Team_Image": "https://cdn.sofifa.net/teams/112427/30.png",
+        "League Id": 6,
+        "Overall": 66
+    },
+    {
+        "Team": "CFR Cluj",
+        "Team_Image": "https://cdn.sofifa.net/teams/110816/30.png",
+        "League Id": 6,
+        "Overall": 68
+    },
+    {
+        "Team": "Derby County",
+        "Team_Image": "https://cdn.sofifa.net/teams/91/30.png",
+        "League Id": 6,
+        "Overall": 67
+    },
+    {
+        "Team": "Pisa",
+        "Team_Image": "https://cdn.sofifa.net/teams/110738/30.png",
+        "League Id": 6,
+        "Overall": 69
+    },
+    {
+        "Team": "Austria Klagenfurt",
+        "Team_Image": "https://cdn.sofifa.net/teams/1787/30.png",
+        "League Id": 6,
+        "Overall": 65
+    },
+    {
+        "Team": "Brest",
+        "Team_Image": "https://cdn.sofifa.net/teams/378/30.png",
+        "League Id": 5,
+        "Overall": 73
+    },
+    {
+        "Team": "Bod\u00f8 / Glimt",
+        "Team_Image": "https://cdn.sofifa.net/teams/918/30.png",
+        "League Id": 6,
+        "Overall": 69
+    },
+    {
+        "Team": "Watford",
+        "Team_Image": "https://cdn.sofifa.net/teams/1795/30.png",
+        "League Id": 6,
+        "Overall": 73
+    },
+    {
+        "Team": "Hajduk Split",
+        "Team_Image": "https://cdn.sofifa.net/teams/263/30.png",
+        "League Id": 6,
+        "Overall": 70
+    },
+    {
+        "Team": "Helsingborg",
+        "Team_Image": "https://cdn.sofifa.net/teams/432/30.png",
+        "League Id": 6,
+        "Overall": 63
+    },
+    {
+        "Team": "Sampdoria",
+        "Team_Image": "https://cdn.sofifa.net/teams/1837/30.png",
+        "League Id": 4,
+        "Overall": 74
+    },
+    {
+        "Team": "AIK",
+        "Team_Image": "https://cdn.sofifa.net/teams/433/30.png",
+        "League Id": 6,
+        "Overall": 67
+    },
+    {
+        "Team": "Fatih Karag\u00fcmr\u00fck",
+        "Team_Image": "https://cdn.sofifa.net/teams/111117/30.png",
+        "League Id": 6,
+        "Overall": 70
+    },
+    {
+        "Team": "Motherwell",
+        "Team_Image": "https://cdn.sofifa.net/teams/83/30.png",
+        "League Id": 6,
+        "Overall": 65
+    },
+    {
+        "Team": "Boto\u015fani",
+        "Team_Image": "https://cdn.sofifa.net/teams/110752/30.png",
+        "League Id": 6,
+        "Overall": 64
+    },
+    {
+        "Team": "Gimnasia La Plata",
+        "Team_Image": "https://cdn.sofifa.net/teams/101084/30.png",
+        "League Id": 6,
+        "Overall": 70
+    },
+    {
+        "Team": "Alianza Lima",
+        "Team_Image": "https://cdn.sofifa.net/teams/111010/30.png",
+        "League Id": 6,
+        "Overall": 69
+    },
+    {
+        "Team": "Hamilton Academical",
+        "Team_Image": "https://cdn.sofifa.net/teams/184/30.png",
+        "League Id": 6,
+        "Overall": 65
+    },
+    {
+        "Team": "Deportivo Binacional",
+        "Team_Image": "https://cdn.sofifa.net/teams/114582/30.png",
+        "League Id": 6,
+        "Overall": 65
+    },
+    {
+        "Team": "Fenerbah\u00e7e",
+        "Team_Image": "https://cdn.sofifa.net/teams/326/30.png",
+        "League Id": 6,
+        "Overall": 76
+    },
+    {
+        "Team": "9 de Octubre",
+        "Team_Image": "https://cdn.sofifa.net/teams/115487/30.png",
+        "League Id": 6,
+        "Overall": 65
+    },
+    {
+        "Team": "Universidad Cat\u00f3lica",
+        "Team_Image": "https://cdn.sofifa.net/teams/110975/30.png",
+        "League Id": 6,
+        "Overall": 70
+    },
+    {
+        "Team": "Benevento",
+        "Team_Image": "https://cdn.sofifa.net/teams/112026/30.png",
+        "League Id": 6,
+        "Overall": 70
+    },
+    {
+        "Team": "Paris",
+        "Team_Image": "https://cdn.sofifa.net/teams/111817/30.png",
+        "League Id": 6,
+        "Overall": 69
+    },
+    {
+        "Team": "Independiente del Valle",
+        "Team_Image": "https://cdn.sofifa.net/teams/112908/30.png",
+        "League Id": 6,
+        "Overall": 70
+    },
+    {
+        "Team": "Villarreal II",
+        "Team_Image": "https://cdn.sofifa.net/teams/110902/30.png",
+        "League Id": 6,
+        "Overall": 65
+    },
+    {
+        "Team": "Piast Gliwice",
+        "Team_Image": "https://cdn.sofifa.net/teams/111086/30.png",
+        "League Id": 6,
+        "Overall": 6
+    },
+    {
+        "Team": "Molde",
+        "Team_Image": "https://cdn.sofifa.net/teams/417/30.png",
+        "League Id": 6,
+        "Overall": 68
+    },
+    {
+        "Team": "Adana Demirspor",
+        "Team_Image": "https://cdn.sofifa.net/teams/101016/30.png",
+        "League Id": 6,
+        "Overall": 72
+    },
+    {
+        "Team": "Stal Mielec",
+        "Team_Image": "https://cdn.sofifa.net/teams/114004/30.png",
+        "League Id": 6,
+        "Overall": 64
+    },
+    {
+        "Team": "Arouca",
+        "Team_Image": "https://cdn.sofifa.net/teams/112513/30.png",
+        "League Id": 6,
+        "Overall": 68
+    },
+    {
+        "Team": "AEK Athens",
+        "Team_Image": "https://cdn.sofifa.net/teams/278/30.png",
+        "League Id": 6,
+        "Overall": 74
+    },
+    {
+        "Team": "Varberg BoIS",
+        "Team_Image": "https://cdn.sofifa.net/teams/113743/30.png",
+        "League Id": 6,
+        "Overall": 62
+    },
+    {
+        "Team": "Korona Kielce",
+        "Team_Image": "https://cdn.sofifa.net/teams/111083/30.png",
+        "League Id": 6,
+        "Overall": 63
+    },
+    {
+        "Team": "Pogo\u0144 Szczecin",
+        "Team_Image": "https://cdn.sofifa.net/teams/110746/30.png",
+        "League Id": 6,
+        "Overall": 68
+    },
+    {
+        "Team": "Jagiellonia Bia\u0142ystok",
+        "Team_Image": "https://cdn.sofifa.net/teams/110745/30.png",
+        "League Id": 6,
+        "Overall": 66
+    },
+    {
+        "Team": "Legia Warszawa",
+        "Team_Image": "https://cdn.sofifa.net/teams/1871/30.png",
+        "League Id": 6,
+        "Overall": 68
+    },
+    {
+        "Team": "Delfin",
+        "Team_Image": "https://cdn.sofifa.net/teams/114580/30.png",
+        "League Id": 6,
+        "Overall": 65
+    },
+    {
+        "Team": "Cracovia Krak\u00f3w",
+        "Team_Image": "https://cdn.sofifa.net/teams/110747/30.png",
+        "League Id": 6,
+        "Overall": 65
+    },
+    {
+        "Team": "PAOK",
+        "Team_Image": "https://cdn.sofifa.net/teams/393/30.png",
+        "League Id": 6,
+        "Overall": 72
+    },
+    {
+        "Team": "Sparta Praha",
+        "Team_Image": "https://cdn.sofifa.net/teams/267/30.png",
+        "League Id": 6,
+        "Overall": 73
+    },
+    {
+        "Team": "Colo-Colo",
+        "Team_Image": "https://cdn.sofifa.net/teams/110980/30.png",
+        "League Id": 6,
+        "Overall": 70
+    },
+    {
+        "Team": "Accrington Stanley",
+        "Team_Image": "https://cdn.sofifa.net/teams/110313/30.png",
+        "League Id": 6,
+        "Overall": 63
+    },
+    {
+        "Team": "Rio Ave",
+        "Team_Image": "https://cdn.sofifa.net/teams/744/30.png",
+        "League Id": 6,
+        "Overall": 70
+    },
+    {
+        "Team": "FC Emmen",
+        "Team_Image": "https://cdn.sofifa.net/teams/100628/30.png",
+        "League Id": 6,
+        "Overall": 66
+    },
+    {
+        "Team": "Wattens",
+        "Team_Image": "https://cdn.sofifa.net/teams/15040/30.png",
+        "League Id": 6,
+        "Overall": 65
+    },
+    {
+        "Team": "Lech Pozna\u0144",
+        "Team_Image": "https://cdn.sofifa.net/teams/873/30.png",
+        "League Id": 6,
+        "Overall": 69
+    },
+    {
+        "Team": "Voluntari",
+        "Team_Image": "https://cdn.sofifa.net/teams/113182/30.png",
+        "League Id": 6,
+        "Overall": 65
+    },
+    {
+        "Team": "Kaizer Chiefs",
+        "Team_Image": "https://cdn.sofifa.net/teams/110929/30.png",
+        "League Id": 6,
+        "Overall": 68
+    },
+    {
+        "Team": "Alcorc\u00f3n",
+        "Team_Image": "https://cdn.sofifa.net/teams/100831/30.png",
+        "League Id": 6,
+        "Overall": 67
+    },
+    {
+        "Team": "Independiente",
+        "Team_Image": "https://cdn.sofifa.net/teams/110093/30.png",
+        "League Id": 6,
+        "Overall": 72
+    }
+]
