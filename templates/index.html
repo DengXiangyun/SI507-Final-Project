@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF8"/>
+    <title>SoFIFA Players Brower Home</title>
+</head>
+<body>
+    <h1>Welcome to the FIFA 23 Great Players Brower!</h1>
+
+    <form action='/results' method='POST'>
+
+    <p>
+        Filter by league: <br/>
+        <select name='League'>
+            <option value='All'>All leagues</option>
+            <option value='Premier League'>Premier League</option>
+            <option value='Bundesliga'>Bundesliga</option>
+            <option value='La Liga'>La Liga</option>
+            <option value='Serie A'>Serie A</option>
+            <option value='Ligue 1'>Ligue 1</option>
+            <option value='Others'>Others</option>
+        </select>
+    </p>
+
+    <p>
+    Sort by: <br/>
+        <input type='radio' name='sort' 
+                value='Age' checked='checked'/> Age <br/>
+        <input type='radio' name='sort' 
+                value='Overall Rating'/> Overall Rating <br/>
+        <input type='radio' name='sort' 
+                value='Potential Rating'/> Potential Rating <br/>        
+        <input type='radio' name='sort' 
+                value='Market Value'/> Market Value <br/>
+        <input type='radio' name='sort' 
+                value='Wage'/> Wage<br/>
+        <input type='radio' name='sort' 
+                value='Total Point'/> Total Point<br/>
+    </p>
+
+    <p>
+    Sort direction: <br/>
+        <input type='radio' name='dir'
+            value='desc' checked='checked'/>High to Low<br/>
+        <input type='radio' name='dir'
+            value='asc'/>Low to High<br/>
+    </p>
+
+    <input type='submit' value='Get Results'/>
+
+    </form>
+
+</body>
+</html>
