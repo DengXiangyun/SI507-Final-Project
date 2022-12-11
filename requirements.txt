@@ -1,0 +1,10 @@
+flask
+sqlite3
+json
+csv
+pandas
+numpy
+re
+requests
+bs4
+beautifulsoup4
