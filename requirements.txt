@@ -1,7 +1,5 @@
 flask
 sqlite3
-json
-csv
 pandas
 numpy
 re
