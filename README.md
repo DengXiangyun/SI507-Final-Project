@@ -23,8 +23,8 @@ National team data: https://sofifa.com/teams?type=national  and  https://www.fif
 
 ## Routes in this app
 - `/` and `/home`: the index
-- `/results': the results
+- `/results`: the results
 - `/about`: it will take you to the github page of this project
 - `/datasource`: it will take you to the SoFIFA offical site. 
 
-Appreciate. 
+# Appreciate. 
