@@ -18,4 +18,13 @@ National team data: https://sofifa.com/teams?type=national  and  https://www.fif
 4. follow the Flask app routes (http://127.0.0.1:5000/) to get to each page. 
 
 ## How to use
-1. In the home page, 
+1. In the `/home` page, you can first select players by leagues, then sort them by their age, overall rating, potential, market value, wage, or total point, and lastly you need to determine the sort order. 
+2. then it will take you to the `/results` page, show 5 players than satisfy your request. 
+
+## Routes in this app
+- `/` and `/home`: the index
+- `/results': the results
+- `/about`: it will take you to the github page of this project
+- `/datasource`: it will take you to the SoFIFA offical site. 
+
+Appreciate. 
