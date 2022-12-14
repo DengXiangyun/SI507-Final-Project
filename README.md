@@ -25,7 +25,7 @@ National team data: https://sofifa.com/teams?type=national  and  https://www.fif
 ## Routes in this app
 - `/` and `/home`: the index
 - `/results`: table of the results
-- `/plot`: it will show you the bar chart on the results
+- `/plot`: it will show you the bar chart of the results
 - `/about`: it will take you to the github page of this project
 - `/datasource`: it will take you to the SoFIFA offical site. 
 
