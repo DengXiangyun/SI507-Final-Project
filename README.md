@@ -20,6 +20,7 @@ National team data: https://sofifa.com/teams?type=national  and  https://www.fif
 ## How to use
 1. In the `/home` page, you can first select players by leagues, then sort them by their age, overall rating, potential, market value, wage, or total point, and lastly you need to determine the sort order. 
 2. then it will take you to the `/results` page, show 5 players than satisfy your request. 
+3. besides, you can also choose to see the graph rather than the table. It will show you the bar chart.
 
 ## Routes in this app
 - `/` and `/home`: the index
