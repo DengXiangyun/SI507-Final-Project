@@ -27,7 +27,7 @@ National team data: https://sofifa.com/teams?type=national  and  https://www.fif
 - `/results`: table of the results
 - `/plot`: it will show you the bar chart of the results
 - `/about`: it will take you to the github page of this project
-- `/datasource`: it will take you to the SoFIFA offical site. 
+- `/datasource`: it will take you to the SoFIFA official site. 
 
 
 ## Project Demo
